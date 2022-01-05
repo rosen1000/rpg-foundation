@@ -1,0 +1,12 @@
+{
+  "name": "rpg-foundation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
